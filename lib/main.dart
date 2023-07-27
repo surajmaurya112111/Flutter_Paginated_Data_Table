@@ -9,7 +9,7 @@ import 'package:paginated_data_tablr/screen/Pagination.dart';
 import 'package:paginated_data_tablr/screen/home.dart';
 import 'package:http/http.dart' as http;
 
-void main() async {
+void main() asyncc {
   runApp(MaterialApp(
     home: MyApp(),
     debugShowCheckedModeBanner: false,
